@@ -8,6 +8,10 @@ elsif x == 1
     puts true
 end
 
+# ternario
+
+puts x.eql?(10) ? true : false
+
 # case
 
 mes = "janeiro"
